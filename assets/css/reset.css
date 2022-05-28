@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Futura', Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+body{
+    background-color: #faf3dd;
+}
+header {
+    padding: 30px;
+    text-align: center;
+    background-color: #4a7c59;
+    width: 100%;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+}
