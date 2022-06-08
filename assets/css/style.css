@@ -293,7 +293,7 @@ h2{
     background-size: 100%;
 }
 
-/* Determines orientation of elements above when broser is at a certain max-width */
+/* Determines orientation of elements above when broser is at a certain  */
 @media screen and (max-width: 576px){
     main, nav {
         flex-direction: column;
